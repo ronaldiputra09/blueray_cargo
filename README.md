@@ -1,16 +1,14 @@
-# blueray_cargo
+# BLUERAY CARGO TEST CODE
 
-A new Flutter project.
+## Requirment Project
+- flutter versi 3.27.1
+- dart versi 3.5.3
 
-## Getting Started
+## Install Project
+- download zip or clone branch "Main"
+- run command flutter pub get
+- run command flutter run
 
-This project is a starting point for a Flutter application.
+## Thank You
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
